@@ -1,4 +1,5 @@
 #!/bin/bash
+# Giving credit where credit is due. About 90-99% of this code was inspired by (Matt Bentley's)[https://github.com/mbentley/] previous works of art.
 CONFIG_ENV="config.env"
 echo -e "Using environment variables from '${CONFIG_ENV}'\\n"
 #shellcheck disable=SC1090
